@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Task1CSBTS</string>
+    <string name="we_have_19_units_for_all_different_types_of_coffe">We have 19 units for all different types of coffe.</string>
+    <string name="facebook">facebook</string>
+    <string name="phone">phone</string>
+    <string name="contact_us">Contact us</string>
+    <string name="description">Description</string>
+    <string name="coffe">Coffe</string>
 </resources>
